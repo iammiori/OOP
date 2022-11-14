@@ -20,3 +20,6 @@ SRP, OCP, LSP, ISP, DIP 에 대해 알아보고 코드에 적용해보기
 - [code에 적용](SOLID.playground/Pages/OCP.xcplaygroundpage/Contents.swift)
 - [블로그정리](https://velog.io/@iammiori/SOLID-OCP)
 
+## LSP (Liskov Substitution Principle) ; 리스코프 치환 원칙
+- 하위 type의 객체는 상위 type의 객체에 가능한 행위를 수행할 수 있어야함
+- ex) 정사각형, 직사각형 넓ㅇ 구하기 
